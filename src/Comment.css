@@ -1,0 +1,14 @@
+.comments-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.comment {
+    border: 2px solid aqua;
+    border-radius: 15px;
+    padding: 20px;
+    box-sizing: border-box;
+    width: 300px;
+}
